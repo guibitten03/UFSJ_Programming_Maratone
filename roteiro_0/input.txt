@@ -1,12 +1,4 @@
-3
-Pedro
-Paulo
-2 4
-3 5
-1 0
-2
-Claudio
-Carlos
-1 5
-2 3
+1
 0
+7
+1 2 3 4 5 6 7
